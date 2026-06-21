@@ -3,7 +3,7 @@ name: CI
 
 on:
   push:
-    branches: [masterr]
+    branches: [master]
 
 jobs:
   code-lint:
